@@ -1,1 +1,0 @@
-# AI-Powered-Text-to-SQL-Application
